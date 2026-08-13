@@ -49,6 +49,9 @@ local-first · self-hosted · build from source — ship to prod.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zuckdorsey/zuckdorsey/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuckdorsey/zuckdorsey/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuckdorsey/zuckdorsey/output/github-contribution-grid-snake-light.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/zuckdorsey/zuckdorsey/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- 4 variants generated: github (green) · github-dark · github-light · purple (custom) — see /output branch -->
+<!-- Purple alt: https://raw.githubusercontent.com/zuckdorsey/zuckdorsey/output/github-contribution-grid-snake-purple.svg -->
