@@ -9,8 +9,8 @@
 // ababil.config.js — zsh @ arch — 100% local-first
 const ababil = {
   name: "Ababil Mustaqim",
-  role: "Full-Stack Robotics Engineer (in progress) 🤖",
-  location: "Batam, ID 🇮🇩",
+  role: "Full-Stack Robotics Engineer (in progress)",
+  location: "Batam, ID ",
   focus: ["Robotics Software", "Embedded", "AI/ML", "System Design"],
   stack: {
     lang: ["Python", "TypeScript", "JavaScript", "Rust", "Java", "Kotlin"],
@@ -26,7 +26,6 @@ const ababil = {
     email: "ababilmustaqim@proton.me",
     github: "https://github.com/zuckdorsey",
   },
-  funFact: "Self-hosting DockPanel at panel.ababil-is-no.fun ⚡",
 };
 
 export default ababil;
