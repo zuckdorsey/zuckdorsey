@@ -6,8 +6,6 @@
 
 ```rust
 #![allow(dead_code)]
-//! src/ababil.rs — zsh @ arch — 100% local-first
-//! `cargo run --bin ababil` — Full-Stack Robotics Engineer (in progress)
 
 #[derive(Debug)]
 struct Ababil {
@@ -73,9 +71,8 @@ fn main() {
 
 ```sh
 # ~/ababil $ cargo run --quiet
-Ababil Mustaqim — Full-Stack Robotics Engineer (in progress) @ Batam, ID
+Ababil Mustaqim —  @ Batam, ID
 currently: System Design · Rust & Embedded · AI/ML pipelines
-philosophy: local-first · self-hosted · build from source — ship to prod.
 
 # quick links
 → portfolio  https://ababil-is-no.fun
